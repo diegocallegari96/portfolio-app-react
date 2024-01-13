@@ -5,8 +5,8 @@ const MyWork = () => {
     <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
         <div className='max-w-[1000px] mx-auto'>
             <div>
-                <p>Work</p>
-                <p>Check out some of my recent work</p>
+                <p className='text-4xl font-bold inline border-b-4 border-[#9049e4]'>Work</p>
+                <p className='py-4'>Check out some of my recent work</p>
             </div>
 
             <div>
@@ -17,10 +17,10 @@ const MyWork = () => {
                         </span>
                         <div>
                             <a href="/">
-                                <button></button>
+                                <button>Demo</button>
                             </a>
                             <a href="/">
-                                <button></button>
+                                <button>Code</button>
                             </a>
 
                         </div>
