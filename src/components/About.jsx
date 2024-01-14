@@ -17,9 +17,10 @@ const About = () => {
                     <p>Hi. I'm Diego, nice to meet you. Please take a look around.</p>
                 </div>
                 <div>
-                    <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                         Minima earum culpa dolor sint exercitationem dicta iste officiis
-                         eveniet cupiditate tempore quis dolore eaque ullam sed, quae error quas tempora inventore!</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                         Hic laborum expedita, earum, ducimus,
+                        distinctio dolor perferendis unde numquam delectus aperiam quaerat dolorum repellat
+                         magni nostrum corrupti quo ullam esse illo!</p>
                 </div>              
             </div>    
         
