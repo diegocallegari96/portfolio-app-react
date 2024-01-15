@@ -17,10 +17,10 @@ const About = () => {
                     <p>Hi. I'm Diego, nice to meet you. Please take a look around.</p>
                 </div>
                 <div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                         Hic laborum expedita, earum, ducimus,
-                        distinctio dolor perferendis unde numquam delectus aperiam quaerat dolorum repellat
-                         magni nostrum corrupti quo ullam esse illo!</p>
+                    <p>I'm an aspiring Front-End Developer with a passion for React, JavaScript, and TailwindCSS. 
+                       My journey is driven by a relentless curiosity and a keen eye for solving problems. 
+                       I thrive on creating responsive, user-friendly web applications and am always exploring ways to enhance their functionality and design. 
+                       I'm eager to learn, grow, and collaborate on exciting projects that push the boundaries of web development.</p>
                 </div>              
             </div>    
         
