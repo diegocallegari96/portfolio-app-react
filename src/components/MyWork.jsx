@@ -1,5 +1,5 @@
 import React from 'react'
-import Seraphine from '../assets/serphinescents'
+import Seraphine from '../assets/SeraphineScent.png'
 
 const MyWork = () => {
   return (
